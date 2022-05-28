@@ -8,11 +8,10 @@
 <div>
   <ul>
       <li>
-        <img src="/img/python.ico">
+        <img href="https://icons8.com/icon/13441/python">
       </li>
   </ul>
 </div>
-
 
 
   <a href="https://www.linkedin.com/in/danilo-de-medeiros-dias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
