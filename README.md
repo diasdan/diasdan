@@ -1,6 +1,8 @@
 # Danilo Dias 
 
-### - Cibersecurity and Full-stack development student
+### - OSINT and Cibersecurity Research
+
+Tools for Information Gathering: OSINT
 
 ![diasdan Status](https://github-readme-stats.vercel.app/api?username=diasdan&&theme=chartreuse-dark&show_icons=true&show_icons=true)
 
