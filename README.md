@@ -1,7 +1,13 @@
 # Danilo Dias 
 
+### - Android Developer
+
+Aplicativos de todos os tipos para Android em Java.
+All kinds of Android applications made in Java.
+
 ### - OSINT and Cibersecurity Research
 
+Ferramentas para coletas de informação e RECON.
 Tools for Information Gathering: OSINT
 
 ![diasdan Status](https://github-readme-stats.vercel.app/api?username=diasdan&&theme=chartreuse-dark&show_icons=true&show_icons=true)
