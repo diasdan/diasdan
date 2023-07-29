@@ -1,14 +1,13 @@
 # Danilo Dias 
 
-### - Android Developer
+### - Desenvolvedor e Analista de T.I. 
 
-Aplicativos de todos os tipos para Android em Java.
-All kinds of Android applications made in Java.
+Profissional de Tecnologia da Informação e um entusiasta desenvolvedor de software e jogos. Minha jornada é impulsionada pela busca incessante por soluções criativas e inovadoras.
 
-### - OSINT and Cibersecurity Research
+Possuo habilidades nas linguagens Python, C/C++ e Java. Atualmente, busco adiquirir habilidades em Verse, uma plataforma poderosa da Epic Games. 
+Além disso, desenvolvo tamém para web com HTML, CSS, Javascript, PHP e framework Flask, criando interfaces envolventes e funcionais.
 
-Ferramentas para coletas de informação e RECON.
-Tools for Information Gathering: OSINT
+Sinta-se à vontade para explorar meus projetos e compartilhar esse universo de inovação e tecnologia. Vamos criar algo surpreendente juntos!
 
 ![diasdan Status](https://github-readme-stats.vercel.app/api?username=diasdan&&theme=chartreuse-dark&show_icons=true&show_icons=true)
 
