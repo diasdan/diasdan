@@ -4,8 +4,8 @@
 
 Profissional de Tecnologia da Informação e um entusiasta desenvolvedor de software e jogos. Minha jornada é impulsionada pela busca incessante por soluções criativas e inovadoras.
 
-Possuo habilidades nas linguagens Python, C/C++ e Java. Atualmente, busco adiquirir habilidades em Verse, uma plataforma poderosa da Epic Games. 
-Além disso, desenvolvo tamém para web com HTML, CSS, Javascript, PHP e framework Flask, criando interfaces envolventes e funcionais.
+Possuo habilidades nas linguagens Python, C/C++ e Java.
+Além disso, desenvolvo para web com HTML, CSS, Javascript, PHP e framework Flask, criando interfaces envolventes e funcionais.
 
 Sinta-se à vontade para explorar meus projetos e compartilhar esse universo de inovação e tecnologia. Vamos criar algo surpreendente juntos!
 
