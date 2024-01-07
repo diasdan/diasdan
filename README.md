@@ -4,8 +4,11 @@
 
 Profissional de Tecnologia da Informação e um entusiasta desenvolvedor de software e jogos. Minha jornada é impulsionada pela busca incessante por soluções criativas e inovadoras.
 
-Possuo habilidades nas linguagens Python, C/C++ e Java.
-Além disso, desenvolvo para web com HTML, CSS, Javascript, PHP e framework Flask, criando interfaces envolventes e funcionais.
+Analista de TI com experiência em escritório de contabilidade e como instrutor. Possuo habilidades em suporte, administração e na área de segurança da informação, incluindo expertise em hardware, bancos de dados SQL e MySQL. Atuo na configuração de servidores, análise de vulnerabilidades e Pentest, desenvolvimento fullstack nas linguagens Python, C/C++ e PHP e Mobile (Java/Kotlin).
+
+### - Desenvolvimento Unreal 
+
+Sou desenvolvedor de jogos e trabalho principalmente no UEFN (Unreal Editor For Fortnite) desenvolvendo projetos inovadores e envolventes, utilizando a linguagem Verse, disponibilizada pela Epic Games.
 
 Sinta-se à vontade para explorar meus projetos e compartilhar esse universo de inovação e tecnologia. Vamos criar algo surpreendente juntos!
 
